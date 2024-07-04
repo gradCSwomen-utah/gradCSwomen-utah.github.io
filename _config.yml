@@ -1,4 +1,4 @@
 url: "https://gradcswomen-utah.github.io/"
 baseurl: "" # the subpath of your site, e.g. /blog
 title: "Grad-CS Women" # the name of your site, e.g. ACME Corp.
-description: "University of Utah"
+description: <img src="{{ site.github.url }}/assets/img/KSoc.png" alt="Home" width="100%">

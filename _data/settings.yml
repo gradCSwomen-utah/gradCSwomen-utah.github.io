@@ -1,7 +1,7 @@
 menu:
-- {name: 'People', url: '/people'}
-- {name: 'publications', url: '/publications'}
+- {name: 'Get Involved', url: '/publications'}
 - {name: 'courses', url: '/courses'}
+- {name: 'People', url: '/people'}
 - {name: 'cv', url: '/cv'}
 - {name: 'contact', url: '/contact'}
 

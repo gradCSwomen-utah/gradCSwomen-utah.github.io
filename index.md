@@ -12,4 +12,14 @@ Through various events, including workshops, speaker series, social gatherings, 
 Join us at **Grad-CS Women** as we work together to break barriers, challenge stereotypes, and pave the way for future generations of women in tech. Together, we can make a lasting impact and shape a more diverse and inclusive future in computer science.
 
 ### **Get Involved**
-Grad-CS Women is open to all female-identifying graduate students in the Kahlert School of Computing. 
+As a member of **Grad-CS Women**, you'll have access to 
+
+* Social gatherings 
+* Volunteering and outreach opportunities
+* Coding / Hackathon preparation workshops
+* Career-building workshops (e.g., resume / LinkedIn creation, interview preparation, etc.)
+* Research workshops (e.g., paper / poster design, conference preparation, etc.)
+* Scholarship and fellowship workshops (e.g., finding grants, applying to GRFP, etc.)
+* Soft skills development workshops (e.g., presentation, communication, networking, etc.)
+
+and much more. 

@@ -1,17 +1,12 @@
 ---
 layout: page
-title: "Primary Investigator"
+title: "Estelle Trieu"
 ---
 
-Researcher - Physics & Astronomy
-
-Some University - 1 Main Street, Canada
-
-Phone: (000) 000-0000
-
-Email: hello@university.edu
-
-Office: Science Building 505
+Insert Role
+2nd Year Image Analysis PhD Student
+Department: Scientific Computing and Imaging Center
+Email: Estelle.Trieu@hci.utah.edu
 
 ---
 

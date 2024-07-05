@@ -4,7 +4,7 @@ title: "Home"
 ---
 <style>
 blue {
-  color: blue;
+  color: lightblue;
 }
 
 red {

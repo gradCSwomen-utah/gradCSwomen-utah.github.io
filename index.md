@@ -13,7 +13,6 @@ Join us at **Grad-CS Women** as we work together to break barriers, challenge st
 
 <br />
 <br />
-<br />
 
 ### **Get Involved**
 As a member of **Grad-CS Women**, you'll have access to 
@@ -26,4 +25,6 @@ As a member of **Grad-CS Women**, you'll have access to
 * Scholarship and fellowship workshops (e.g., finding grants, applying to GRFP, etc.)
 * Soft skills development workshops (e.g., presentation, communication, networking, etc.)
 
-and much more. Please note that while **Grad-CS Women** was designed with female computer science graduate students in mind, we regularly host events that welcome *all* computer science graduate students.
+and much more. Please note that while **Grad-CS Women** was designed with female computer science graduate students in mind, we regularly host events that welcome *all* computer science graduate students. Notifications about events open to the entire CS graduate community will be emailed to the *grads@cs.utah.edu* mailing list. 
+
+Additionally, if you are a female CS graduate *alumni* and would like to serve as a mentor in the **Grad-CS Women** mentorship program or give a guest talk for the group, please get in touch with one of the officers. 

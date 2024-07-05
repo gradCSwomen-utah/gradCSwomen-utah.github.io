@@ -7,4 +7,5 @@ title: "Publications"
 ## **<purple>2024-2025 Events</purple>**
 <br />
 ### September 
-* List an event here 
+* List an event here
+* List another event here

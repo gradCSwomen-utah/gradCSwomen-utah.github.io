@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Graduate Student"
+title: "Anna Fariha"
 ---
 
 Researcher - Physics & Astronomy

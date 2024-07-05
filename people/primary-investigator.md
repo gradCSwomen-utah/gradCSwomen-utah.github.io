@@ -2,9 +2,6 @@
 layout: page
 title: "Estelle Trieu"
 ---
-
-Insert Role
-
 2nd Year Image Analysis PhD Student
 
 Department: Scientific Computing and Imaging Center

@@ -2,6 +2,19 @@
 layout: home
 title: "Home"
 ---
+<style>
+blue {
+  color: blue;
+}
+
+red {
+  color: red;
+}
+
+green {
+  color: lightgreen;
+}
+</style>
 
 Welcome to **Grad-CS Women**, an inclusive community dedicated to empowering female computer science graduate students. As a student-led organization, we are committed to creating a supportive environment where women can thrive academically, professionally, and personally.
 
@@ -14,7 +27,7 @@ Join us at **Grad-CS Women** as we work together to break barriers, challenge st
 <br />
 <br />
 
-### ** Get Involved ** 
+<blue>### **Get Involved**</blue>
 As a member of **Grad-CS Women**, you'll have access to 
 
 * Department-specific social gatherings 

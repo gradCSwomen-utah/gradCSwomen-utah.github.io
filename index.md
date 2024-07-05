@@ -3,7 +3,7 @@ layout: home
 title: "Home"
 ---
 
-Welcome to **Grad-CS Women**, an inclusive community dedicated to empowering female graduate students in computer science at the University of Utah. As a student-led organization, we are committed to creating a supportive environment where women can thrive academically, professionally, and personally.
+Welcome to **Grad-CS Women**, an inclusive community dedicated to empowering female computer science graduate students at the University of Utah. As a student-led organization, we are committed to creating a supportive environment where women can thrive academically, professionally, and personally.
 
 Our *mission* is to foster a sense of belonging and provide female computer science students with valuable resources, networking opportunities, and mentorship. We believe in the power of collaboration and aim to build a strong network of women who inspire and uplift each other.
 

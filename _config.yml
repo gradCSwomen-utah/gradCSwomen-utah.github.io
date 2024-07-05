@@ -1,5 +1,4 @@
-<style> purple { color: purple; } red { color: red; } green { color: lightgreen; } </style>
 url: "https://gradcswomen-utah.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 title: "Grad-CS Women" # the name of your site, e.g. ACME Corp.
-description: "<red>University of Utah</red> | Kahlert School of Computing"
+description: "University of Utah | Kahlert School of Computing"

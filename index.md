@@ -14,7 +14,7 @@ Join us at **Grad-CS Women** as we work together to break barriers, challenge st
 <br />
 <br />
 
-### **Get Involved**
+### **@@Get Involved@@** 
 As a member of **Grad-CS Women**, you'll have access to 
 
 * Department-specific social gatherings 

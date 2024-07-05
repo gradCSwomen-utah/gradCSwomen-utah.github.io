@@ -11,5 +11,5 @@ Through various events, including workshops, speaker series, social gatherings, 
 
 Join us at **Grad-CS Women** as we work together to break barriers, challenge stereotypes, and pave the way for future generations of women in tech. Together, we can make a lasting impact and shape a more diverse and inclusive future in computer science.
 
-## Get Involved
+### **Get Involved**
 Grad-CS Women is open to all female-identifying graduate students in the Kahlert School of Computing. 

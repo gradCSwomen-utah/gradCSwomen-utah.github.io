@@ -14,11 +14,11 @@ Join us at **Grad-CS Women** as we work together to break barriers, challenge st
 ### **Get Involved**
 As a member of **Grad-CS Women**, you'll have access to 
 
-* Social gatherings 
+* Department-specific social gatherings 
 * Volunteering and outreach opportunities
 * Coding / Hackathon preparation workshops
-* Career-building workshops (e.g., resume / LinkedIn creation, interview preparation, etc.)
-* Research workshops (e.g., paper / poster design, conference preparation, etc.)
+* Career-building workshops (e.g., resume/LinkedIn creation, interview preparation, etc.)
+* Research workshops (e.g., paper/poster design, conference preparation, etc.)
 * Scholarship and fellowship workshops (e.g., finding grants, applying to GRFP, etc.)
 * Soft skills development workshops (e.g., presentation, communication, networking, etc.)
 

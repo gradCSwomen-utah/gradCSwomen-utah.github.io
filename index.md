@@ -21,7 +21,10 @@ Welcome to **Grad-CS Women**, an inclusive community dedicated to empowering fem
 
 Our *mission* is to foster a sense of belonging and provide female computer science students with valuable resources, networking opportunities, and mentorship. We believe in the power of collaboration and aim to build a strong network of women who inspire and uplift each other.
 
-Through various events, including workshops, speaker series, social gatherings, and professional development sessions, we strive to enhance the graduate experience and bridge the gender gap in technology. Our initiatives are designed to address the unique challenges faced by women in computer science and to celebrate their achievements.
+Through various events, including workshops, speaker series, social gatherings, and professional development sessions, we strive to enhance the graduate experience and bridge the gender gap in technology. Our initiatives are designed to address the unique challenges faced by women in computer science and to celebrate their achievements. 
+<p align="right" width="100%">
+    <img width="33%" src="https://i.sstatic.net/RJj4x.png">
+</p>
 
 Join us at **Grad-CS Women** as we work together to break barriers, challenge stereotypes, and pave the way for future generations of women in tech. Together, we can make a lasting impact and shape a more diverse and inclusive future in computer science.
 

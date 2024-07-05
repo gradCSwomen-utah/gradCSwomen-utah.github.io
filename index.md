@@ -4,7 +4,7 @@ title: "Home"
 ---
 <style>
 purple {
-  color: darkpurple;
+  color: purple;
 }
 
 red {

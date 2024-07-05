@@ -3,6 +3,12 @@ layout: home
 title: "Home"
 ---
 
-This theme allows an academic person to showcase their research interests, publications, research group, curriculum vitae, any courses that they may be teaching, or anything else they may want to put out into the world.
+Welcome to **Grad-CS Women**, an inclusive community dedicated to empowering female computer science graduate students. As a student-led organization, we are committed to creating a supportive environment where women can thrive academically, professionally, and personally.
 
-Academics can use this home page to describe their research interests, display their latest publications, or provide an introduction to their research group.
+Our *mission* is to foster a sense of belonging and provide female computer science students with valuable resources, networking opportunities, and mentorship. We believe in the power of collaboration and aim to build a strong network of women who inspire and uplift each other.
+
+Through various events, including workshops, speaker series, social gatherings, and professional development sessions, we strive to enhance the graduate experience and bridge the gender gap in technology. Our initiatives are designed to address the unique challenges faced by women in computer science and to celebrate their achievements.
+
+Join us at **Grad-CS Women** as we work together to break barriers, challenge stereotypes, and pave the way for future generations of women in tech. Together, we can make a lasting impact and shape a more diverse and inclusive future in computer science.
+
+Let's connect, grow, and succeed – because when women support women, incredible things happen.

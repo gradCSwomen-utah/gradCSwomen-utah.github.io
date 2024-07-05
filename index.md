@@ -11,6 +11,8 @@ Through various events, including workshops, speaker series, social gatherings, 
 
 Join us at **Grad-CS Women** as we work together to break barriers, challenge stereotypes, and pave the way for future generations of women in tech. Together, we can make a lasting impact and shape a more diverse and inclusive future in computer science.
 
+
+
 ### **Get Involved**
 As a member of **Grad-CS Women**, you'll have access to 
 

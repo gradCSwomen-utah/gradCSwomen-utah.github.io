@@ -2,12 +2,12 @@
 layout: page
 title: "Estelle Trieu"
 ---
-PhD student (Image Analysis), 2nd year
+PhD student, 2nd year
 
-Department: Scientific Computing and Imaging Center
+Department: Scientific Computing and Imaging Institute 
 
 Email: Estelle.Trieu@hci.utah.edu
 
 ---
 
-Outside of research, 
+Estelle Trieu is a 2nd year PhD student in the image analysis program at the University of Utah's Scientific Computing and Imaging Institute (SCI). Outside of research, you'll find her lifting weights with the university powerlifting team, practicing the Olympic lifts (snatch and clean & jerk), or running cross-country. She also enjoys hanging out with her friends and learning how to cook new recipes. 

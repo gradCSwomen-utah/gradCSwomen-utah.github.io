@@ -1,6 +1,6 @@
 ---
-layout: publications
-title: "Publications"
+layout: events
+title: "Events"
 ---
 <style>
 purple {

@@ -1,6 +1,6 @@
 ---
 layout: publications
-title: "Events"
+title: "Publications"
 ---
 
 ### Events 

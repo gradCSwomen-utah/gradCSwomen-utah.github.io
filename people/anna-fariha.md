@@ -3,15 +3,9 @@ layout: page
 title: "Anna Fariha"
 ---
 
-Researcher - Physics & Astronomy
+Professor
 
-Some University - 1 Main Street, Canada
-
-Phone: (000) 000-0000
-
-Email: hello@university.edu
-
-Office: Science Building 505
+Email: someemail
 
 ---
 

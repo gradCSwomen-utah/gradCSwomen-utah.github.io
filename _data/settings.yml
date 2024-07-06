@@ -7,7 +7,7 @@ menu:
 
 
 people:
-- {name: 'Anna Fariha', role:'Advisor', title: 'Researcher', email: 'hello@university.edu', image: 'assets/img/graduate-student.jpg', url: 'anna-fariha'}
+- {name: 'Anna Fariha', role:'Advisor', title: 'Professor', email: 'someemail', image: 'assets/img/graduate-student.jpg', url: 'anna-fariha'}
 - {name: 'Estelle Trieu', role: 'insert role', title: 'PhD student, 2nd year', email: 'Estelle.trieu@hci.utah.edu', image: 'assets/img/estelle-trieu.jpg', url: 'estelle-trieu'}
 - {name: 'Lab Technician', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/lab-technician.jpg', url: 'lab-technician'}
 

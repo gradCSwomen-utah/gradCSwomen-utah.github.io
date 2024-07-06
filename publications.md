@@ -16,11 +16,11 @@ green {
 }
 </style>
 
-### <purple>2024-2025 Events</purple>
+## <purple>2024-2025 Events</purple>
 
 <br/>
 
-## September 
+### September 
 * List an event here 
 
 

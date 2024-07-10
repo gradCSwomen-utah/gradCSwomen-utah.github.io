@@ -14,14 +14,3 @@ Through various events, including workshops, speaker series, social gatherings, 
 Join us at Grad-CS Women as we work together to break barriers, challenge stereotypes, and pave the way for future generations of women in tech. Together, we can make a lasting impact and shape a more diverse and inclusive future in computer science.
 
 Let’s connect, grow, and succeed – because when women support women, incredible things happen.
-## Mission statement
-
-Our mission is to foster a sense of belonging and provide female computer science students with valuable resources, networking opportunities, and mentorship. We believe in the power of collaboration and aim to build a strong network of women who inspire and uplift each other. Grad CS Women is determined to:
-
-- build a strong community of female-identified computer science graduate students
-- enhance the academic and professional successes of its members
-- promote an inclusive community within the College, and highlight disparities
-- celebrate accomplishments of women in computer science
-
-
-

@@ -1,10 +1,9 @@
 ---
 # layout: page
-title: Get Involved!
+title: Get Involved
 permalink: /get-involved
 order: 3
 ---
-## Get Involved
 
 As a member of Grad-CS Women, you’ll have access to:
 - Department-specific social gatherings

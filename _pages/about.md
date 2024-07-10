@@ -7,7 +7,7 @@ order: 1
 
 ## About Us
 
-Welcome to Grad-CS Women, an inclusive community dedicated to empowering female computer science graduate students. As a student-led organization, we are committed to creating a supportive environment where women can thrive academically, professionally, and personally.
+Welcome to Grad-CS Women, an inclusive community dedicated to empowering female computer science graduate students at the University of Utah. We are a student-led organization in the Kahlert School of Computing committed to creating a supportive environment where women can thrive academically, professionally, and personally.
 
 Through various events, including workshops, speaker series, social gatherings, and professional development sessions, we strive to enhance the graduate experience and bridge the gender gap in technology. Our initiatives are designed to address the unique challenges faced by women in computer science and to celebrate their achievements.
 

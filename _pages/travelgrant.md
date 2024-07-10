@@ -3,7 +3,7 @@ layout: page
 short-title: Travel Grant
 title: CSWomen Travel Grant Program
 permalink: /travelgrant
-order: 3
+order: 4
 ---
 
 # ![UofU logo](/assets/images/uofu_logo.png){:style="float: left; margin:0 15px 10px 0; width: 300px; "}

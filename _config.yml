@@ -19,34 +19,31 @@ authors:
     twitter: https://twitter.com/cswomenumass
   Mahnoor:
     avatar: '/assets/images/officers/xyz.png'
-    display_name: Jfoley
-  tosch:
-    avatar: '/assets/images/avatars/etosch.png'
-    display_name: Emma Tosch
-  kritishrivastava:
-    avatar: '/assets/images/avatars/kritishrivastava.png'
-    display_name: Kriti Shrivastava
-  manpreet:
-    avatar: '/assets/images/avatars/manpreet.png'
-    display_name: Manpreet
-  myungha:
-    avatar: '/assets/images/avatars/myungha.png'
-    display_name: Myungha Jang
-  nidhimundra:
-    avatar: '/assets/images/avatars/nidhimundra.png'
-    display_name: Nidhi Mundra
-  rian:
-    avatar: '/assets/images/avatars/rian.png'
-    display_name: Rian Shambaugh
-  shamya:
-    avatar: '/assets/images/avatars/S.png'
-    display_name: Shamya
-  shiri:
-    avatar: '/assets/images/avatars/S.png'
-    display_name: Shiri
-  sofya:
-    avatar: '/assets/images/avatars/S.png'
-    display_name: Sofya
+    display_name: Mahnoor Fatima Saad
+  Estelle:
+    avatar: '/assets/images/officers/xyz.png'
+    display_name: Estelle
+  Manila:
+    avatar: '/assets/images/officers/xyz.png'
+    display_name: Manila
+  Melina:
+    avatar: '/assets/images/officers/xyz.png'
+    display_name: Melina
+  Mayukha:
+    avatar: '/assets/images/officers/xyz.png'
+    display_name: Mayukha
+  Shiyi:
+    avatar: '/assets/images/officers/xyz.png'
+    display_name: Shiyi
+  Anna:
+    avatar: '/assets/images/officers/xyz.png'
+    display_name: Dr. Anna Fariha
+  Sakshi:
+    avatar: '/assets/images/officers/xyz.png'
+    display_name: Sakshi
+  Member:
+    avatar: '/assets/images/officers/xyz.png'
+    display_name: TBD
     
 # Plugins
 plugins: 

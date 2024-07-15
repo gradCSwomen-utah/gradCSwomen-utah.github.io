@@ -1,25 +1,20 @@
-<div class="row align-items-center">
-  <!-- Officer Thumbnail -->
-  <div class="col-md-4 mb-4 mb-md-0">
-    <img alt="{{ officer.name }}" src="{{ officer.thumbnail }}" class="img-fluid rounded-circle" style="max-width: 180px; height: auto;">
-  </div>
-  <!-- Officer Details -->
-  <div class="col-md-8">
-    <ul style="list-style-type:none;">
-      <li><b><a href="{{ officer.webpage }}">{{ officer.name }}</a></b></li>
-      <li><b>{{ officer.title }}</b></li>
-      {% if officer.year %}
+<!-- officerbox.html -->
+<div class="col-md-12">
+  <img alt="{{ officer.name }}" src="{{ officer.thumbnail }}" class="img-fluid rounded-circle" style="max-width: 180px; height: auto;">
+  <ul style="list-style-type:none;">
+    <li><b><a href="{{ officer.webpage }}">{{ officer.name }}</a></b></li>
+    <li><b>{{ officer.title }}</b></li>
+    {% if officer.year %}
       <li><i>{{ officer.year }} year in the {{ officer.program }} program</i></li>
-      {% endif %}
-      {% if officer.labpage %}
+    {% endif %}
+    {% if officer.labpage %}
       <li><a href="{{ officer.labpage }}"><span class="glyphicon glyphicon-briefcase" title="work" aria-hidden="true"></span>&nbsp;{{ officer.labname }}</a></li>
-      {% endif %}
-      {% if officer.email %}
+    {% endif %}
+    {% if officer.email %}
       <li><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span>&nbsp;{{ officer.email }}</li>
-      {% endif %}
-    </ul>
-    <p>
-      {{ officer.content }}
-    </p>
-  </div>
+    {% endif %}
+  </ul>
+  <p>
+    {{ officer.content }}
+  </p>
 </div>

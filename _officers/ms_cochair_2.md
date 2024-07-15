@@ -1,7 +1,7 @@
 ---
 publish: true
 layout: default
-title: Member
+title: MS Co-Chair
 name: "Melina Belianovich"
 email: xyz [at] cs [dot] utah [dot] edu
 webpage:

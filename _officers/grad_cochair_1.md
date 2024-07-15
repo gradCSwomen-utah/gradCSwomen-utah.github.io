@@ -1,7 +1,7 @@
 ---
 publish: true
 layout: default
-title: Member
+title: Grad Chair
 name: "Estelle Trieu"
 email: xyz [at] cs [dot] utah [dot] edu
 webpage:

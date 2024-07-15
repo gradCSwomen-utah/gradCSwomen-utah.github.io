@@ -1,7 +1,7 @@
 ---
 publish: false
 layout: default
-title: Member
+title: Social Events Coordinator
 name: "Mayukha Mandya"
 email:
 webpage: xyz [at] cs [dot] utah [dot] edu

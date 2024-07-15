@@ -2,7 +2,7 @@
 publish: true
 layout: default
 title: Treasurer
-name: ""
+name: Shiyi He
 webpage:
 email: xyz [at] cs [dot] utah [dot] edu
 year: 

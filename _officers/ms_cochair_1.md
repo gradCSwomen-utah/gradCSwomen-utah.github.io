@@ -1,7 +1,7 @@
 ---
 publish: true
 layout: default
-title: Member
+title: MS Chair
 name: "Sakshi Jain"
 email: xyz [at] cs [dot] utah [dot] edu
 webpage: 

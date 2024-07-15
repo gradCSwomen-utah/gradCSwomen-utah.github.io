@@ -1,7 +1,7 @@
 ---
 publish: true
 layout: default
-title: Member
+title: Grad Co-Chair
 name: "Manila Devaraja"
 email: xyz [at] cs [dot] utah [dot] edu
 webpage:

@@ -4,7 +4,7 @@ layout: default
 title: Grad Chair
 name: "Estelle Trieu"
 email: Estelle.Trieu@hci.utah.edu
-description: ************************************************************************************************************************************************************************************************************************************************************************
+description: TEST ssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss
 webpage: 
 year: 2nd
 program: PhD

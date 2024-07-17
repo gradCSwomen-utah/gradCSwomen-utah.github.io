@@ -6,10 +6,10 @@ order: 2
 ---
 # Fall 2024 Events
 ## August 
-* Grad-CS Women presents @ Orientation (08/14)
+* Grad-CS Women presents @ new graduate student orientation (08/14)
 
 ## September 
-* Welcome Social & Networking Mixer (09/ )
+* **Welcome Social & Networking Mixer** (09/ )
 * Guest Speaker Session: Women in Tech (09/ )
 
 

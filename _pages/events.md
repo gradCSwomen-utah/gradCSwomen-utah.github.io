@@ -4,8 +4,13 @@ title: Events
 permalink: /events
 order: 2
 ---
-# Events in Fall 2024
-* Orientation (Aug 14 2024)
+# Fall 2024 Events
+## August 
+* Grad-CS Women presents @ Orientation (08/14)
+
+## September 
+* Welcome Social & Networking Mixer (09/ )
+* Guest Speaker Session: Women in Tech (09/ )
 
 
 <!-- 

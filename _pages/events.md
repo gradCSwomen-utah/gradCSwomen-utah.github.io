@@ -8,21 +8,21 @@ order: 2
 ## <span style="color: red;">August</span> 
 * Grad-CS Women presents @ new graduate student orientation (08/14)
 
-<span style="color: red;">## September</span> 
+## <span style="color: red;">September</span> 
 * **Welcome Social & Networking Mixer** (09/ )
 * Guest Speaker Session: Women in Tech (09/ )
 
-<span style="color: red;">## October</span>
+## <span style="color: red;">October</span>
 * Ethics of AI Challenge (10/ )
 * Guest Speaker Session: Women in Tech (10 / )
 
-<span style="color: red;">## November</span>
+## <span style="color: red;">November</span>
 - more events coming soon
 
-<span style="color: red;">## December</span>
+## <span style="color: red;">December</span>
 - more events coming soon
   
-<span style="color: red;">## January</span>
+## <span style="color: red;">January</span>
 - more events coming soon
 
 

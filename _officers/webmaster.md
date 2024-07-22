@@ -1,10 +1,10 @@
 ---
-publish: false
+publish: true
 layout: default
 title: Webmaster
 name: "Mahnoor Fatima Saad"
 email:
-webpage: mahnoor [dot] saad [at] cs [dot] umass [dot] edu
+webpage: mahnoor.saad@cs.utah.edu
 year: 2nd
 program: PhD
 labname:

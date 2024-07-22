@@ -26,9 +26,6 @@ order: 2
 - more events coming soon
 
 
-
-<span style="color: red;">this text is green</span>.
-
 <!-- 
 
 # Technical Workshop Series

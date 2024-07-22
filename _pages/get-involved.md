@@ -4,7 +4,7 @@ title: Get Involved
 permalink: /get-involved
 order: 3
 ---
-
+## The Perks of Joining
 As a member of Grad-CS Women, you’ll have access to:
 - Department-specific social gatherings
 - Volunteering and outreach opportunities

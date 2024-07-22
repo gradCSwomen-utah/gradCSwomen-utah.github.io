@@ -1,11 +1,11 @@
 ---
 publish: true
 layout: default
-title: Grad Co-Chair
+title: PhD Co-Chair
 name: "Manila Devaraja"
-email: xyz [at] cs [dot] utah [dot] edu
+email: u1320404@utah.edu
 webpage:
-year: 
+year: 2nd year
 program: PhD
 labname: 
 labpage: 

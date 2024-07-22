@@ -12,6 +12,11 @@ order: 2
 * **Welcome Social & Networking Mixer** (09/ )
 * Guest Speaker Session: Women in Tech (09/ )
 
+## October
+* Ethics of AI Challenge (10/ )
+* Guest Speaker Session: Women in Tech (10 / )
+
+
 
 <!-- 
 

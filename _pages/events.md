@@ -5,7 +5,7 @@ permalink: /events
 order: 2
 ---
 # Fall 2024 Events
-## <span style="color: red;"><August></span>
+## <August>
 * Grad-CS Women presents @ new graduate student orientation (08/14)
 
 ## <span style="color: red;">September</span> 

@@ -19,6 +19,8 @@ and much more. Please note that while Grad-CS Women was designed to support fema
 
 Additionally, if you are a female CS graduate alumni and would like to serve as a mentor in the Grad-CS Women mentorship program or give a guest talk for the group, please get in touch with us.
 
+<br />
+
 ## Officer Positions 
 Serving as an officer on the Grad-CS Women leadership team is a great way to develop strong leadership skills that translate into research and the workplace. Not to mention, it's a solid resume booster! 
 

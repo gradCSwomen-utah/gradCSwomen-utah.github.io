@@ -2,11 +2,11 @@
 publish: false
 layout: default
 title: Social Events Coordinator
-name: "Mayukha Mandya"
+name: "Milena Belianovich"
 email:
-webpage: xyz [at] cs [dot] utah [dot] edu
-year: 
-program: 
+webpage: u1419504@utah.edu
+year: 3rd
+program: PhD
 labname:
 labpage:
 thumbnail: /assets/images/officers/xyz.png

@@ -3,8 +3,8 @@ publish: true
 layout: default
 title: Social Events Coordinator
 name: "Milena Belianovich"
-email:
-webpage: u1419504@utah.edu
+email: u1419504@utah.edu
+webpage: 
 year: 3rd
 program: PhD
 labname:

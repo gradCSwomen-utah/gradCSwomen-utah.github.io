@@ -1,5 +1,5 @@
 ---
-publish: false
+publish: true
 layout: default
 title: Social Events Coordinator
 name: "Milena Belianovich"

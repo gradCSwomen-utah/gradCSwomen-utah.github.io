@@ -29,3 +29,5 @@ Elections to determine officer positions are held annually in July. To run for a
 1. consistent involvement in Grad-CS Women meetings and organizational events
 2. strong prior leadership experiences appropriate for the applied position
 3. adeptness in working in team environments
+
+We offer applications to interested Grad-CS Women members we have gotten to know well over the months. There is no online application. 

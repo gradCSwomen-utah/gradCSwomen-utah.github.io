@@ -4,7 +4,7 @@ layout: default
 title: PhD Chair
 name: "Estelle Trieu"
 email: Estelle.Trieu@hci.utah.edu
-webpage: href="{{ site.github.url }}/officer_descriptions/{{ Estelle }}">More info
+webpage:
 year: 2nd
 program: Medical Image Analysis PhD
 labname: 

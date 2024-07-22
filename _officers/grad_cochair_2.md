@@ -5,7 +5,7 @@ title: PhD Co-Chair
 name: "Manila Devaraja"
 email: u1320404@utah.edu
 webpage:
-year: 2nd year
+year: 2nd
 program: PhD
 labname: 
 labpage: 

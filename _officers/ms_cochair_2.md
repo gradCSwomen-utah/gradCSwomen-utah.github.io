@@ -2,11 +2,11 @@
 publish: true
 layout: default
 title: MS Co-Chair
-name: "Melina Belianovich"
-email: xyz [at] cs [dot] utah [dot] edu
+name: "Mayukha Mandya Ammangatambu"
+email: u1516366@umail.utah.edu
 webpage:
-year: 
-program: 
+year: 1st
+program: MS
 labname:
 labpage:
 thumbnail: /assets/images/officers/xyz.png

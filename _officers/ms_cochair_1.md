@@ -3,9 +3,9 @@ publish: true
 layout: default
 title: MS Chair
 name: "Sakshi Jain"
-email: xyz [at] cs [dot] utah [dot] edu
+email: sakshi.jain@utah.edu
 webpage: 
-year: 
+year: 2nd
 program: MS
 labname: 
 labpage: 

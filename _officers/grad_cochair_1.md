@@ -7,7 +7,7 @@ email: Estelle.Trieu@hci.utah.edu
 webpage:
 year: 2nd
 program: Medical Image Analysis PhD
-labname: test test test
+labname: 
 labpage:
 thumbnail: /assets/images/officers/xyz.png
 order: 2

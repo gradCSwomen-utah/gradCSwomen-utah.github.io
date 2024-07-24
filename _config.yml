@@ -3,7 +3,7 @@ name: "U of Utah Grad-CS Women"
 title: U of Utah Grad-CS Women"
 description: "Promoting the representation and interests of women in computing. "
 logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+favicon: 'assets/images/header_logo.png'
 baseurl: ""
 mailchimp-list: 
 include: ["_pages", "_officers"]

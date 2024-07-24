@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Officers
-permalink: /officers
+title: People
+permalink: /people
 order: 6
 ---
 

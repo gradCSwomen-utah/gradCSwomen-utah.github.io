@@ -10,6 +10,6 @@ program: PhD
 labname: Computer Vision Group
 labpage:
 thumbnail: /assets/images/officers/mahnoor.png
-content: 
+content: "I am a second year PhD student from Pakistan currently working the domain of ML and AI. Outside of work, I love swimming, playing tennis and playing golf!"
 order: 7
 ---

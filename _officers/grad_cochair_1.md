@@ -10,5 +10,6 @@ program: Medical Image Analysis PhD
 labname: 
 labpage:
 thumbnail: /assets/images/officers/xyz.png
+bio: "-"
 order: 2
 ---

@@ -10,5 +10,6 @@ program: MS
 labname:
 labpage:
 thumbnail: /assets/images/officers/xyz.png
+bio: "-"
 order: 5
 ---

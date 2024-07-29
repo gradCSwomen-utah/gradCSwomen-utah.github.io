@@ -9,7 +9,6 @@ year: 2nd
 program: MS
 labname: 
 labpage: 
-thumbnail: /assets/images/officers/sakshi.jpg
-bio: "-"
+thumbnail: /assets/images/officers/xyz.png
 order: 4
 ---

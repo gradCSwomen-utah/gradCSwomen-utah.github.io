@@ -7,7 +7,7 @@ email: afariha@cs.utah.edu
 webpage:
 year:
 program: Assistant Professor
-thumbnail: /assets/images/officers/xyz.png
+thumbnail: /assets/images/officers/anna.png
 order: 1
 ---
 

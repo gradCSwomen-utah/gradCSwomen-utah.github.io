@@ -9,6 +9,6 @@ year: 2nd
 program: PhD
 labname:
 labpage:
-thumbnail: /assets/images/officers/mahnoor.jpg
+thumbnail: /assets/images/officers/mahnoor.png
 order: 7
 ---

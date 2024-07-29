@@ -583,6 +583,10 @@ span.navigation {
     font-weight: 700;
     text-align:center;
 }
+.border-bottom {
+    border-bottom: 2px solid #000; /* Adjust color and thickness as needed */
+    padding-bottom: 20px; /* Optional: Adjust padding as needed */
+  }
 .pagination {
    display:block;
 }

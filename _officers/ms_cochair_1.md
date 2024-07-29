@@ -10,5 +10,6 @@ program: MS
 labname: 
 labpage: 
 thumbnail: /assets/images/officers/sakshi.png
+bio: "-"
 order: 4
 ---

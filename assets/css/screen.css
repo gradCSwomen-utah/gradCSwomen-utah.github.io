@@ -247,7 +247,7 @@ span.post-name a,span.post-read-more a:hover {
     background-color: #800000; /* Maroon color */
     color: #ffffff; /* White text color */
     padding: 20px 0;
-    position: fixed;
+    position: absolute;
     bottom: 0;
     width: 100%;
     text-align: center;

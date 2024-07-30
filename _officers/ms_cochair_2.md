@@ -1,11 +1,11 @@
 ---
 publish: true
 layout: default
-title: MS Chair
+title: MS Co-Chair
 name: "Mayukha Mandya"
 email: u1516366@utah.edu
 webpage: 
-year: 2nd
+year: 1st
 program: MS
 labname: 
 labpage: 

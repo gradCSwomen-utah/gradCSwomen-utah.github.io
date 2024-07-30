@@ -3,7 +3,7 @@ publish: true
 layout: default
 title: Webmaster
 name: "Mahnoor Fatima Saad"
-email: "mahnoor.saad@cs.utah.edu"
+email: "mahnoor.saad@utah.edu"
 webpage: "https://faculty.utah.edu/u1472267-MAHNOOR_FATIMA_SAAD/research/index.hml"
 year: 2nd
 program: PhD 

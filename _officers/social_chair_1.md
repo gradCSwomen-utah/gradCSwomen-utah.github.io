@@ -10,5 +10,5 @@ program: PhD
 labname:
 labpage:
 thumbnail: /assets/images/officers/xyz.png
-order: 6
+order: 8
 ---

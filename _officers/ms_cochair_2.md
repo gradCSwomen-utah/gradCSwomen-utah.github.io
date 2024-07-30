@@ -2,14 +2,14 @@
 publish: true
 layout: default
 title: MS Chair
-name: "Mayukha Mandya Ammangatambu"
-email: u1516366@umail.utah.edu
+name: "Sakshi Jain"
+email: sakshi.jain@utah.edu
 webpage: 
-year: 1st
+year: 2nd
 program: MS
 labname: 
 labpage: 
-thumbnail: /assets/images/officers/mayukha.png
-bio: "I am an incoming master's student in Computer Science at the University of Utah, I enjoy working on sports analytics, explainable AI, and deep learning, focusing on creating healthcare solutions for underserved communities. I stay updated with the latest trends through the "Linear Digressions" podcast."
+thumbnail: /assets/images/officers/sakshi.png
+bio: "I'm a second-year Computer Science grad student who loves interacting with people and exploring the latest tech trends. As the MS Chair, I'm eager to bring innovative ideas to our club and create a vibrant, supportive community."
 order: 4
 ---

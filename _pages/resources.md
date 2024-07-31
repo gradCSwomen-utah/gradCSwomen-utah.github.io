@@ -7,7 +7,10 @@ order: 5
 
 # Conferences
 ## Capital Region Celebration of Women in Computing 
-"CAPWIC is the ACM Capital Region Celebration of Women in Computing and provides a low-cost, regionally tailored, small conference for women and minorities in computing. The participants include women (students, faculty, and professionals), as well as all supporters of women in computing."
+- CAPWIC provides a low-cost, regionally tailored, small conference for women and minorities in computing
+- Abstract submissions are due typically in the Winter
+- CAPWIC also offers student scholarships to attend the conference, with applications due in the Winter
+- Groups of students can register to attend the conference together
 
 # Scholarships
 

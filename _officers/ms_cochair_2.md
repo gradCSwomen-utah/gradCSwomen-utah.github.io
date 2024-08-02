@@ -11,6 +11,6 @@ labname:
 labpage: 
 thumbnail: /assets/images/officers/mayukha.png
 bio: "Mayukha is an incoming CS master's student. She enjoys working on sports analytics, explainable AI, and deep learning, focusing on creating healthcare solutions for underserved communities. She stays updated with the latest trends through the Linear Digressions podcast."
-order: 4
+order: 3
 ---
 

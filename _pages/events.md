@@ -10,7 +10,7 @@ order: 2
 
 ## <span style="color: red;">September</span> 
 * **Welcome Social & Networking Mixer** (09/ )
-* Guest Speaker Session: Lindsey LeAnn (09/ )
+* Guest Speaker Session: Lindsey LeAnn, KSoC Alumni (09/ )
 
 ## <span style="color: red;">October</span>
 * Ethics of AI Challenge (10/ )

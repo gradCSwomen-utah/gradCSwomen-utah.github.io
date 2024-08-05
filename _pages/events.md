@@ -14,7 +14,7 @@ order: 2
 
 ## <span style="color: red;">October</span>
 * Ethics of AI Challenge (10/ )
-* Guest Speaker Session: Women in Tech (10 / )
+* *Battling Imposter Syndrome* Workshop & Discussion (10 / )
 
 ## <span style="color: red;">November</span>
 - more events coming soon

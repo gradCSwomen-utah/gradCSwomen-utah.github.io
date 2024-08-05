@@ -4,7 +4,7 @@ title: About Us
 permalink: /about
 order: 1
 ---
-
+## About Us 
 
 Let's be honest. Graduate school is hard. What do you do when your paper is rejected? How do you battle those resurfacing feelings of imposter syndrome? How do you establish a work-life balance while churning out research results? 
 

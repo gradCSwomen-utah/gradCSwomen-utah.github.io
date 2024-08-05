@@ -15,7 +15,7 @@ As a member of Grad-CS Women, you’ll have access to:
 - Scholarship and fellowship workshops (e.g., finding grants, applying to GRFP, etc.)
 - Soft skills development workshops (e.g., presentation, communication, networking, etc.)
 
-and much more. We welcome ***all*** computer science graduate students across various departments. You **do not have** to be a female-identifying student to join the organization. We regularly send event reminders to the entire computer science graduate community via the <span style="color: orange;">grads@cs.utah.edu</span> mailing list.
+and much more. We welcome ***all*** computer science graduate students across various departments. You **do not** have to be a female-identifying student to join the organization. We regularly send event reminders to the entire computer science graduate community via the <span style="color: orange;">grads@cs.utah.edu</span> mailing list.
 
 Additionally, if you are a female computer science graduate alumni and would like to serve as a mentor in the Grad-CS Women mentorship program or give a guest talk for the group, please get in touch with us.
 
@@ -30,4 +30,4 @@ Elections to determine officer positions are held annually in July. Officers are
 2. strong prior leadership experiences appropriate for the applied position
 3. adeptness in working in team environments
 
-You **do not have** to be a female-identifying student to run for a position. We offer applications to interested members we have gotten to know well over the months. There is no online application. 
+You **do not** to be a female-identifying student to run for a position. We offer applications to interested members we have gotten to know well over the months. There is no online application. 

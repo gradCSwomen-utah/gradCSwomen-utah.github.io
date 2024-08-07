@@ -9,7 +9,7 @@ order: 2
 * Grad-CS Women presents @ new graduate student orientation (08/14)
 
 ## <span style="color: red;">September</span> 
-* **Welcome Social & Networking Mixer** (09/11)
+* **Start of the Year Social Mixer** (09/11)
 * Guest Speaker Session: Lindsey LeAnn, KSoC Alumni (09/25)
 
 ## <span style="color: red;">October</span>

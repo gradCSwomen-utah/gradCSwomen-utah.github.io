@@ -9,12 +9,12 @@ order: 2
 * Grad-CS Women presents @ new graduate student orientation (08/14)
 
 ## <span style="color: red;">September</span> 
-* **Welcome Social & Networking Mixer** (09/ )
-* Guest Speaker Session: Lindsey LeAnn, KSoC Alumni (09/ )
+* **Welcome Social & Networking Mixer** (09/11)
+* Guest Speaker Session: Lindsey LeAnn, KSoC Alumni (09/25)
 
 ## <span style="color: red;">October</span>
-* Ethics of AI Challenge (10/ )
-* *Battling Imposter Syndrome* Workshop & Discussion (10 / )
+* Ethics of AI Challenge (10/09)
+* *Battling Imposter Syndrome* Workshop & Discussion (10/23)
 
 ## <span style="color: red;">November</span>
 - more events coming soon

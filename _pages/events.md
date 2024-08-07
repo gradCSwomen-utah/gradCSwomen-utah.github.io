@@ -17,7 +17,8 @@ order: 2
 * *Battling Imposter Syndrome* Workshop & Discussion (10/23)
 
 ## <span style="color: red;">November</span>
-- more events coming soon
+* Group Hike (11/06)
+* Research Poster Design Workshop (11/20)
 
 ## <span style="color: red;">December</span>
 - more events coming soon

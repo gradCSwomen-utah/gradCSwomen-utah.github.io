@@ -17,7 +17,7 @@ As a member of Grad-CS Women, you’ll have access to:
 
 and much more. We welcome ***all*** computer science graduate students across various departments. You **do not** have to be a female-identifying student to join the organization. We regularly send event reminders to the entire computer science graduate community via the <span style="color: orange;">grads@cs.utah.edu</span> mailing list.
 
-Additionally, if you are a female computer science graduate alumni and would like to serve as a mentor in the Grad-CS Women mentorship program or give a guest talk for the group, please get in touch with us.
+Additionally, if you are a KSoC computer science alumni and would like to serve as a mentor in the Grad-CS Women mentorship program or give a guest talk for the group, please contact us.
 
 <br />
 

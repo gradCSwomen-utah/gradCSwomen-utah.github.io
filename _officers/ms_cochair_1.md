@@ -1,5 +1,5 @@
 ---
-publish: false
+publish: true
 layout: default
 title: MS Chair
 name: "Sakshi Jain"

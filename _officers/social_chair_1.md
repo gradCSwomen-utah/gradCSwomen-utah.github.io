@@ -10,6 +10,6 @@ program: PhD
 labname:
 labpage:
 thumbnail: /assets/images/officers/milena.png
-bio: "I am a 3rd year PhD student at the University of Utah, working under the guidance of Dr. Varun Shankar. My research focuses on ML in the area of scientific computing. Prior to my acacdemic career, I was a Divison 1 athlete in women's tennis, a passion I continue to pursue recreationally. I enjoy exploring various genres of literature, watching anime and playing video games. These interests help me maintain a balanced and well rounded lifestyle. "
+bio: "Milena is a 3rd year PhD student at the University of Utah, working under the guidance of Dr. Varun Shankar. Her research focuses on ML in the area of scientific computing. Before her academic career, she was a Division 1 athlete in women's tennis, a passion she continues to pursue recreationally. Milena enjoys exploring various genres of literature, watching anime, and playing video games. These interests help her maintain a balanced and well-rounded lifestyle. "
 order: 5
 ---

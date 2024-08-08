@@ -26,7 +26,7 @@ The National Science Foundation's Graduate Research Fellowship Program (GRFP) su
 ## <a href="https://swe.org/scholarships/" style="color: #990000;;"> Society of Women Engineers (SWE) Scholarships</a>
 The Society of Women Engineers (SWE) offers numerous scholarships to support women pursuing degrees in engineering, computer science, and related fields. These scholarships are available for undergraduate and graduate students and aim to help women achieve their academic and professional goals in STEM disciplines. Find out more information about the application and review process <a href="https://swe.org/scholarships/" style="color: red;">here</a>
 
-### Note: We are dedicated to supporting women and individuals of all gender identities. If you have any questions about scholarships or conferences, please don't hesitate to reach out to us. We're here to assist you!
+#### Note: We are dedicated to supporting women and individuals of all gender identities. If you have any questions about scholarships or conferences, please don't hesitate to reach out to us. We're here to assist you!
 
 
 

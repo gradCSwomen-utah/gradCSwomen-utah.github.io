@@ -63,7 +63,7 @@ License: https://www.wowthemes.net/freebies-license/
      padding-bottom:20px;
      margin-bottom:-1px;
 }
-.border-top {
+.border-top-with-margin {
     border-top: 11px solid #222;
     margin-top: 50px; /* Adjust the value as needed */
     margin-bottom: 100px;

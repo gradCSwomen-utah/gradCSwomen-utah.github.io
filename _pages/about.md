@@ -21,8 +21,15 @@ Grad-CS Women strives to
 - Enhance the graduate experience through workshops, speaker series, social gatherings, and professional development sessions
 - Serve as an outlet for students from various departments to connect and have fun 
 - Address the unique challenges women face in computer science and celebrate their achievements
+- Foster collaborative projects and research initiatives that highlight and advance the work of women in computer science
+- Provide opportunities for leadership by encouraging participation in leadership roles within the organization and in the broader academic and professional community
+- Encourage work-life balance by offering resources and strategies for managing academic responsibilities alongside personal life and well-being
+- Build a network of role models and successful professionals who can inspire and guide current students, helping them navigate their academic and career paths
 
-<span style="color: red;">Let’s connect, grow, and succeed!</span>
+
+
+
+### <span style="color: #990000;">Let’s connect, grow, and succeed!</span>
 
 
 

@@ -5,26 +5,26 @@ permalink: /events
 order: 2
 ---
 # Fall 2024 Events
-## <span style="color: red;">August</span> 
+## <span style="color: #990000;;">August</span> 
 * Grad-CS Women presents @ new graduate student orientation (08/16)
 
-## <span style="color: red;">September</span> 
+## <span style="color: #990000;;">September</span> 
 * **Start of the Year Social Mixer** (09/11)
 * Guest Speaker Session: Lindsey LeAnn, KSoC Alumni (09/25)
 
-## <span style="color: red;">October</span>
+## <span style="color: #990000;;">October</span>
 * Ethics of AI Challenge (10/09)
 * *Battling Imposter Syndrome* Workshop & Discussion (10/23)
 
-## <span style="color: red;">November</span>
+## <span style="color: #990000;;">November</span>
 * Group Hike (11/06)
 * Research Poster Design Workshop (11/20)
 
-## <span style="color: red;">December</span>
+## <span style="color: #990000;;">December</span>
 * Potluck (12/11)
 * Lightning Talks Workshop (12/25)
   
-## <span style="color: red;">January</span>
+## <span style="color: #990000;;">January</span>
 - more events coming soon
 
 

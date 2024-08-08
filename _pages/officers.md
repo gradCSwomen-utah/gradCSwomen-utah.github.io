@@ -2,7 +2,7 @@
 layout: page
 title: People
 permalink: /officers
-order: 6
+order: 4
 ---
 
 <div class="row masonry-grid">

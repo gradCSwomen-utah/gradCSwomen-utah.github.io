@@ -6,7 +6,7 @@ order: 2
 ---
 # Fall 2024 Events
 ## <span style="color: red;">August</span> 
-* Grad-CS Women presents @ new graduate student orientation (08/14)
+* Grad-CS Women presents @ new graduate student orientation (08/16)
 
 ## <span style="color: red;">September</span> 
 * **Start of the Year Social Mixer** (09/11)
@@ -21,7 +21,8 @@ order: 2
 * Research Poster Design Workshop (11/20)
 
 ## <span style="color: red;">December</span>
-- more events coming soon
+* Potluck (12/11)
+* Lighting Talks Workshop (12/25)
   
 ## <span style="color: red;">January</span>
 - more events coming soon

@@ -22,7 +22,7 @@ order: 2
 
 ## <span style="color: red;">December</span>
 * Potluck (12/11)
-* Lighting Talks Workshop (12/25)
+* Lightning Talks Workshop (12/25)
   
 ## <span style="color: red;">January</span>
 - more events coming soon

@@ -713,6 +713,8 @@ License: https://www.wowthemes.net/freebies-license/
 /* Hide the images by default */
 .mySlides {
   display: none;
+  opacity: 0;
+  transition: opacity 1.5s ease-in-out;
 }
 
 /* Next & previous buttons */
@@ -780,8 +782,7 @@ License: https://www.wowthemes.net/freebies-license/
 
 /* Fading animation */
 .fade {
-  animation-name: fade;
-  animation-duration: 1.5s;
+    animation: fade 1.5s ease-in-out;
 }
 
 @keyframes fade {

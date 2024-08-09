@@ -755,6 +755,8 @@ iframe {
 /* Hide the images by default */
 .mySlides {
   display: none;
+  opacity: 0;
+  transition: opacity 1.5s ease-in-out;
 }
 
 /* Next & previous buttons */

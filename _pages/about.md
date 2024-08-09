@@ -11,6 +11,7 @@ Grad-CS Women is a welcoming community dedicated to helping computer science gra
 
 Navigating graduate school successfully requires insight and experience, which aren’t always easy to come by, even for senior students. Grad-CS Women is here to simplify that journey by providing guidance from the ground up, turning what can be a confusing process into a more manageable and clear path. Whether you’re just starting out or are nearing the end of your program, Grad-CS Women offers valuable lessons and support to help you succeed in your unique graduate journey.
 <br />
+
 ## Requirements for Membership
 To become a member of Grad-CS Women, you must satisfy the following requirements:
 
@@ -19,6 +20,7 @@ To become a member of Grad-CS Women, you must satisfy the following requirements
 
 Please note that you **do not** have to be a female-identifying student to join the organization.
 <br />
+
 ## Mission 
 Grad-CS Women strives to 
 

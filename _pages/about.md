@@ -10,9 +10,7 @@ Let’s face it — graduate school is challenging. How do you handle the sting 
 Grad-CS Women is a welcoming community dedicated to helping computer science graduate students at the University of Utah develop the skills they need to thrive in their programs. Our primary focus is supporting female-identifying students, but we welcome all computer science graduate students. As a student-led organization within the Kahlert School of Computing (KSoC), we are committed to fostering an environment where everyone can succeed academically, professionally, and socially. Our members represent diverse identities, backgrounds, and research areas, including computer vision, machine learning, medical image analysis, and supercomputing.
 
 Navigating graduate school successfully requires insight and experience, which aren’t always easy to come by, even for senior students. Grad-CS Women is here to simplify that journey by providing guidance from the ground up, turning what can be a confusing process into a more manageable and clear path. Whether you’re just starting out or are nearing the end of your program, Grad-CS Women offers valuable lessons and support to help you succeed in your unique graduate journey.
-
 <br />
-
 ## Requirements for Membership
 To become a member of Grad-CS Women, you must satisfy the following requirements:
 
@@ -20,9 +18,7 @@ To become a member of Grad-CS Women, you must satisfy the following requirements
 2. Be a student within the KSoC, have a @cs.utah.edu email, or be involved in computer science-related research
 
 Please note that you **do not** have to be a female-identifying student to join the organization.
-
 <br />
-
 ## Mission 
 Grad-CS Women strives to 
 

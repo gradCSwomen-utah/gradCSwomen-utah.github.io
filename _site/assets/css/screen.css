@@ -148,14 +148,14 @@ License: https://www.wowthemes.net/freebies-license/
      margin-top:40px;
 }
  .post-top-meta span {
-     font-size:1rem;
-     color:rgba(0,0,0,.44);
+     font-size:1.25rem;
+     color: #990009; ;
      display:inline-block;
 }
  .post-top-meta .author-description {
      margin-bottom:5px;
      margin-top:5px;
-     font-size:1rem;
+     font-size:1.25rem;
 }
  .author-meta {
      flex:1 1 auto;

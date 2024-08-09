@@ -5,7 +5,7 @@ title: Treasurer
 name: Shiyi He
 webpage:
 email: shiyi.he@utah.edu
-year: 4th
+year: 2nd
 program: PhD
 labname:
 labpage:

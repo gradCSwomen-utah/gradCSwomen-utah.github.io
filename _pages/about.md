@@ -17,7 +17,7 @@ Navigating graduate school successfully requires insight and experience, which a
 To become a member of Grad-CS Women, you must satisfy the following requirements:
 
 1. Be a graduate student (MS or PhD)
-2. Be a student in the KSoC, have a @cs.utah.edu email, or be involved in computer science-related research
+2. Be a student within the KSoC, have a @cs.utah.edu email, or be involved in computer science-related research
 
 Please note that you **do not** have to be a female-identifying student to join the organization.
 

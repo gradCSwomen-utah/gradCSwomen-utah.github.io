@@ -13,7 +13,7 @@ order: 2
 * Guest Speaker Session: Lindsey LeAnn, KSoC Alumni (09/25)
 
 ## <span style="color: #990000;;">October</span>
-* Ethics of AI Challenge (10/09)
+* Ethics of AI Challenge + prize drawing (10/09)
 * *Battling Imposter Syndrome* Workshop & Discussion (10/23)
 
 ## <span style="color: #990000;;">November</span>

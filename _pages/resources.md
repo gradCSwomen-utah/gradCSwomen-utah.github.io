@@ -12,6 +12,13 @@ order: 5
 - CAPWIC also offers student scholarships to attend the conference, with applications due in the Winter
 - Groups of students can register to attend the conference together
 
+## <a href="https://ghc.anitab.org/become-a-speaker" style="color: #990000;;">Grace Hopper Celebration (GHC)</a>
+- GHC is the largest tech conference in the world for women and nonbinary people. 
+- Run my AnitaB.org 
+- Strives to uplift, connect, inspire and guide individuals in tech
+- Keep an eye on deadlines and dates <a href="https://ghc.anitab.org/become-a-speaker" style="color: red;">here</a>
+
+
 
 # Scholarships and Fellowships
 ## <a href="https://www.aauw.org/resources/programs/fellowships-grants/" style="color: #990000;;">AAUW Fellowships and Grants</a>
@@ -25,6 +32,10 @@ The National Science Foundation's Graduate Research Fellowship Program (GRFP) su
 
 ## <a href="https://swe.org/scholarships/" style="color: #990000;;"> Society of Women Engineers (SWE) Scholarships</a>
 The Society of Women Engineers (SWE) offers numerous scholarships to support women pursuing degrees in engineering, computer science, and related fields. These scholarships are available for undergraduate and graduate students and aim to help women achieve their academic and professional goals in STEM disciplines. Find out more information about the application and review process <a href="https://swe.org/scholarships/" style="color: red;">here</a>
+
+## <a href="https://cra.org/cra-wp/scholarships-and-awards/" style="color: #990000;;"> Computing Research Association - Widening Participation (CRA-WP)</a>
+CRA-WP, previously CRA-W, strives to uplift and create positive impact for underrepresented groups in computing research and education. By conducting workshops and having numerous scholarships and awards CRA-W continuously works to motivate individuals to reach their career and educational horizons. Find out more information <a href="https://cra.org/cra-wp/scholarships-and-awards/" style="color: red;">here</a>
+
 
 #### Note: We are dedicated to supporting women and individuals of all gender identities. If you have any questions about scholarships or conferences, please don't hesitate to reach out to us. We're here to assist you!
 

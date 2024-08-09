@@ -822,8 +822,7 @@ iframe {
 
 /* Fading animation */
 .fade {
-  animation-name: fade;
-  animation-duration: 1.5s;
+    animation: fade 1.5s ease-in-out;
 }
 
 @keyframes fade {

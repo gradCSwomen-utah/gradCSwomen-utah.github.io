@@ -25,7 +25,7 @@ order: 2
 * Guest Speaker Session (12/25)
 
 
-# Spring 2024 Events
+# Spring 2025 Events
 ## <span style="color: #990000;;">January</span>
 * Potluck (01/08)
 * Lightning Talks Workshop (01/22)

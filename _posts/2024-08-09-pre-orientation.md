@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Fall 2024 Orientation Preps"
-date:   2024-08-08
+date:   2024-08-09
 categories: intro
 image: assets/images/uofu_logo.png
 author: Mahnoor

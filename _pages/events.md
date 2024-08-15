@@ -22,14 +22,14 @@ order: 2
 
 ## <span style="color: #990000;;">December</span>
 * Donuts & Coffee hangout (during finals week) (12/11)
-* Guest Speaker Session (12/25)
+* Lightning Talks Workshop (12/25)
   
 <br>
 
 # Spring 2025 Events
 ## <span style="color: #990000;;">January</span>
 * Potluck (01/08)
-* Lightning Talks Workshop (01/22)
+* Lightning/Conference Talks Presentations (01/22)
 
 ## <span style="color: #990000;;">March</span>
 - more events coming soon

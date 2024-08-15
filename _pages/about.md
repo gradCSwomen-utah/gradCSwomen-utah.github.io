@@ -11,6 +11,8 @@ Grad-CS Women is a welcoming community dedicated to helping computer science gra
 
 Navigating graduate school successfully requires insight and experience, which aren’t always easy to come by, even for senior students. Grad-CS Women is here to simplify that journey by providing guidance from the ground up, turning what can be a confusing process into a more manageable and clear path. Whether you’re just starting out or are nearing the end of your program, Grad-CS Women offers valuable lessons and support to help you succeed in your unique graduate journey.
 
+Curious about joining Grad-CS Women? Visit our <a href="https://gradcswomen-utah.github.io/get-involved" style="color: #990000;;">Get Involved</a> page to learn more. Want to know about upcoming events? Head over to our <a href="https://gradcswomen-utah.github.io/events" style="color: #990000;;">Events</a> page. Interested in conference and scholarship opportunities? Take a look at our <a href="https://gradcswomen-utah.github.io/resources" style="color: #990000;;">Resources</a> page. And don't miss our <a href="https://gradcswomen-utah.github.io/blog" style="color: #990000;;">Blog</a> where we dive into all things CS!
+
 <br />
 
 ## Requirements for Membership

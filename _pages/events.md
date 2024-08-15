@@ -23,6 +23,7 @@ order: 2
 ## <span style="color: #990000;;">December</span>
 * Donuts & Coffee hangout (during finals week) (12/11)
 * Guest Speaker Session (12/25)
+  
 <br />
 # Spring 2025 Events
 ## <span style="color: #990000;;">January</span>

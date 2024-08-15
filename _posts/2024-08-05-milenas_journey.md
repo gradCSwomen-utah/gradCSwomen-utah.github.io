@@ -3,7 +3,7 @@ layout: post
 title:  "My Journey to the University of Utah"
 date:   2024-08-05
 categories: intro
-image: assets/images/uofu_logo.png
+image: assets/images/aerial-view.jpg
 author: Milena
 thumbnail: assets/images/officers/milena.png
 ---

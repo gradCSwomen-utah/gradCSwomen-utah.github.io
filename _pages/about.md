@@ -4,7 +4,7 @@ title: About Us
 permalink: /about
 order: 1
 ---
-## About Us 
+
 Let’s face it — graduate school is challenging. How do you handle the sting of a rejected paper? What about the nagging feelings of imposter syndrome that seem to resurface? How do you maintain a work-life balance while keeping up with research demands?
 
 Grad-CS Women is a welcoming community dedicated to helping computer science graduate students at the University of Utah develop the skills they need to thrive in their programs. Our primary focus is supporting female-identifying students, but we welcome all computer science graduate students. As a student-led organization within the Kahlert School of Computing (KSoC), we are committed to fostering an environment where everyone can succeed academically, professionally, and socially. Our members represent diverse identities, backgrounds, and research areas, including computer vision, machine learning, medical image analysis, and supercomputing.

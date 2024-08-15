@@ -31,6 +31,6 @@ Even as I finish writing this, I am thinking of many more things I wish I could 
 
 LeAnn
 
-And if you happen to want to watch some video of these computer graphics pioneers reflecting back on their time at the U, here is a link to the video of the IEEE Milestone Event, held in conjuction with the 50th Anniversary of the Computer Science Dept at the U of U. https://www.youtube.com/playlist?list=PLhQVGnx4kTkXmqYjT1t1RZMwBHfu2eEVA
+And if you happen to want to watch some video of these computer graphics pioneers reflecting back on their time at the U, here is a link to the video of the IEEE Milestone Event, held in conjuction with the 50th Anniversary of the Computer Science Dept at the U of U. <a href="https://www.youtube.com/playlist?list=PLhQVGnx4kTkXmqYjT1t1RZMwBHfu2eEVA" style="color: red;">YouTube</a>
 
 This is another “extra” event that I am very glad I went to, to hear them speak in person.

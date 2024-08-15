@@ -21,14 +21,17 @@ order: 2
 * Research Poster Design Workshop (11/20)
 
 ## <span style="color: #990000;;">December</span>
-* Potluck (12/11)
-* Lightning Talks Workshop (12/25)
-  
+* Donuts & Coffee hangout (during finals week) (12/11)
+* Guest Speaker Session (12/25)
+
+
+# Spring 2025 Events
 ## <span style="color: #990000;;">January</span>
+* Potluck (01/08)
+* Lightning Talks Workshop (01/22)
+
+## <span style="color: #990000;;">March</span>
 - more events coming soon
-
-
-
 
 # Events Calendar
 

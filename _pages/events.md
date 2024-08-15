@@ -24,7 +24,8 @@ order: 2
 * Donuts & Coffee hangout (during finals week) (12/11)
 * Guest Speaker Session (12/25)
   
-<br />
+<br>
+
 # Spring 2025 Events
 ## <span style="color: #990000;;">January</span>
 * Potluck (01/08)

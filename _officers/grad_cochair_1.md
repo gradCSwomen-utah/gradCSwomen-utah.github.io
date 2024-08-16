@@ -6,7 +6,7 @@ name: "Estelle Trieu"
 email: Estelle.Trieu@hci.utah.edu
 webpage:
 year: 2nd
-program: PhD
+program: PhD/onc training
 labname: 
 labpage:
 thumbnail: /assets/images/officers/estelle.png

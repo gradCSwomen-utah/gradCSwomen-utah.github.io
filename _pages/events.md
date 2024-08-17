@@ -29,7 +29,7 @@ order: 2
 # Spring 2025 Events
 ## <span style="color: #990000;;">January</span>
 * Potluck (01/08)
-* Lightning/Conference Talks Presentations (01/22)
+* Lightning/Conference Talk Presentations (01/22)
 
 ## <span style="color: #990000;;">March</span>
 - more events coming soon

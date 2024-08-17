@@ -32,3 +32,5 @@ Elections to determine officer positions are held annually in July. Officers are
 4. ~10 hours of availability for organizational responsibilities, events, and meetings per week
 
 You **do not** have to be a female-identifying student to run for a position. We offer applications to interested members we have gotten to know well over the months. There is no online application. 
+
+If you are interested in details regarding the election process, peruse **ARTICLE III: OFFICERS** of our <a href="https://docs.google.com/document/d/1NKz1Wu00YNbBbvvjly4sn9oy4suhh8PxmHuVcmYosrc/edit?usp=sharing" style="color: #990000;;">Constitution & By-Laws</a>. 

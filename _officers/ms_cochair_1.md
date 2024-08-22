@@ -2,14 +2,14 @@
 publish: true
 layout: default
 title: MS Chair
-name: "Sakshi Jain"
-email: sakshi.jain@utah.edu
+name: "MS Chair"
+email: tbd
 webpage: 
-year: 2nd
+year: 
 program: MS
 labname: 
 labpage: 
-thumbnail: /assets/images/officers/sakshi.png
-bio: "Sakshi is a 2nd year Computer Science grad student who loves interacting with people and exploring the latest tech trends. As the MS Chair, she is eager to bring innovative ideas to Grad-CS Women and create a vibrant, supportive community."
+thumbnail: /assets/images/officers/xyz.png
+bio: "This position is open. If you are an MS student interested in applying please reach out to us at gradwomensoc@gmail.com"
 order: 2
 ---

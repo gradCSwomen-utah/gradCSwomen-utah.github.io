@@ -5,7 +5,7 @@ permalink: /resources
 order: 5
 ---
 
-# Conferences
+# Conferences and Workshops
 ## <a href="https://capwic.org/" style="color: #990000;;">Capital Region Celebration of Women in Computing</a>
 - CAPWIC provides a low-cost, regionally tailored, small conference for women and minorities in computing
 - Abstract submissions are due typically in the Winter
@@ -18,6 +18,11 @@ order: 5
 - Strives to uplift, connect, inspire and guide individuals in tech
 - Keep an eye on deadlines and dates <a href="https://ghc.anitab.org/become-a-speaker" style="color: red;">here</a>
 
+## <a href="https://cra.org/cra-wp/grad-cohort-for-women/" style="color: #990000;;">Grad Cohort Workshop for Women</a>
+- CRA-WP annually holds this workshop for women in computing-related studies 
+- Interact with about 20 senior female researchers and professionals
+- 2 day workshop to provide career and educational success tools to female-identifying grad students in the CS field 
+- Deadline for 2025 cohort applications will soon be declared so keep updated <a href="https://cra.org/cra-wp/grad-cohort-for-women/#overview" style="color: red;">here</a>
 
 
 # Scholarships and Fellowships

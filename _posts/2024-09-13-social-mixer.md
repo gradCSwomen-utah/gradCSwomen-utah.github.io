@@ -12,13 +12,13 @@ Grad-CS Women kicked off the new semester with a warm and vibrant social mixer, 
 
 The event featured a variety of fun-filled games that got everyone involved. Whether it was casual table bowling or mind-boggling card tower stack, the goal was to foster a sense of community and belonging. Conversations flowed freely as attendees shared about their enthusiasm for the start of the semester, their plans for the future and what activities they hope Grad-CS Women wil organize in the future. It was a great opportunity for members to meet others outside of their academic circles and forge meaningful friendships. 
 
-<img src="assets/images/blog/social-mixer-fall24/mixer1.png" alt="My Image">
+<img src="/assets/images/blog/social-mixer-fall24/mixer1.png" alt="My Image">
 
 As always, delicious food was at the heart of the gathering, with an array of snacks, drinks, and finger foods, ensuring that everyone had something to enjoy while they mingled. As the evening progressed, the energy remained high as we shared laughs and got to know each other better.
 
 To wrap up the evening, we held a special raffle draw, adding an extra layer of excitement to the event. Five lucky participants walked away with beautiful art kits generously donated by the art department. The raffle was a fun and memorable way to close out the mixer, leaving everyone eager for future events.
 
-<img src="assets/images/blog/social-mixer-fall24/mixer2.png" alt="My Image">
+<img src="/assets/images/blog/social-mixer-fall24/mixer2.png" alt="My Image">
 
 Overall, the event was a resounding success, offering a perfect blend of fun, food, and camaraderie. We hope to continue this tradition of bringing everyone together over games, good food, and great company in the semesters to come. Grad-CS Women is all about creating supportive spaces where friendships flourish and everyone feels welcome!
 

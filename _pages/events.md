@@ -13,26 +13,7 @@ order: 2
 * Guest Speaker Session: LeAnn Lindsey, KSoC Alumni (09/25)
 
 ## <span style="color: #990000;;">October</span>
-* Ethics of AI Challenge + prize drawing (10/09)
-* *Battling Imposter Syndrome* Workshop & Discussion (10/23)
-
-## <span style="color: #990000;;">November</span>
-* Group Hike (11/06)
-* Research Poster Design Workshop (11/20)
-
-## <span style="color: #990000;;">December</span>
-* Donuts & Coffee hangout (during finals week) (12/11)
-* Lightning Talks Workshop (12/25)
-  
-<br>
-
-# Spring 2025 Events
-## <span style="color: #990000;;">January</span>
-* Potluck (01/08)
-* Lightning/Conference Talk Presentations (01/22)
-
-## <span style="color: #990000;;">March</span>
-- more events coming soon
+* Group Hike (10/18/2024)
 
 # Events Calendar
 

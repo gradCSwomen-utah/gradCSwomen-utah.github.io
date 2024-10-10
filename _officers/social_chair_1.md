@@ -2,14 +2,14 @@
 publish: true
 layout: default
 title: Social Events Coordinator
-name: tbd
-email: 
+name: "Rebecca Moore"
+email: u1461543@utah.edu
 webpage: 
-year: 
-program: 
-labname:
+year: 2nd
+program: PhD 
+labname: 
 labpage:
-thumbnail: /assets/images/officers/xyz.png
-bio: "This position is open. If you are an MS student interested in applying please reach out to us at gradwomensoc@gmail.com"
+thumbnail: /assets/images/officers/rebecca.png
+bio: "Rebecca is a 2nd year PhD student in the Personal Data and Empowerment Lab under Prof. Jason Wiese. Her research centers around accessible technology for persons with disabilities. Outside of work, she enjoys crocheting, walking her dogs and hiking in millcreek canyon"
 order: 5
 ---

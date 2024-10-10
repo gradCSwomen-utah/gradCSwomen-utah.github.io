@@ -9,7 +9,7 @@ year: 2nd
 program: PhD 
 labname: 
 labpage:
-thumbnail: /assets/images/officers/rebecca.png
+thumbnail: /assets/images/officers/rebecca_2.png
 bio: "Rebecca is a 2nd year PhD student in the Personal Data and Empowerment Lab under Prof. Jason Wiese. Her research centers around accessible technology for persons with disabilities. Outside of work, she enjoys crocheting, walking her dogs and hiking in millcreek canyon"
 order: 5
 ---

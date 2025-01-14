@@ -4,6 +4,16 @@ title: Events
 permalink: /events
 order: 2
 ---
+# Spring 2025 Events
+## <span style="color: #990000;;">January</span> 
+
+## <span style="color: #990000;;">February</span> 
+
+## <span style="color: #990000;;">March</span>
+
+## <span style="color: #990000;;">April</span>
+
+
 # Fall 2024 Events
 ## <span style="color: #990000;;">August</span> 
 * Grad-CS Women presents @ new graduate student orientation (08/16)

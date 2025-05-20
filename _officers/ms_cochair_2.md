@@ -2,15 +2,14 @@
 publish: true
 layout: default
 title: MS Co-Chair
-name: "Mayukha Mandya"
-email: u1516366@utah.edu
+name: "MS Co-Chair"
+email: tbd
 webpage: 
-year: 1st
+year: 
 program: MS
 labname: 
 labpage: 
-thumbnail: /assets/images/officers/mayukha.png
-bio: "Mayukha is a 1st year master's student. She enjoys working on sports analytics, explainable AI, and deep learning, focusing on creating healthcare solutions for underserved communities. She stays updated with the latest trends through the Linear Digressions podcast."
+thumbnail: /assets/images/officers/xyz.png
+bio: "This position is open. If you are an MS student interested in applying please reach out to us at gradwomensoc@gmail.com"
 order: 3
 ---
-

@@ -2,14 +2,14 @@
 publish: true
 layout: default
 title: PhD Chair
-name: "Estelle Trieu"
-email: Estelle.Trieu@hci.utah.edu
-webpage:
-year: 2nd
+name: "Mahnoor Saad"
+email: "mahnoor.saad@utah.edu"
+webpage: "https://faculty.utah.edu/u1472267-MAHNOOR_FATIMA_SAAD/research/index.hml
+year: 3rd
 program: PhD
 labname: 
 labpage:
-thumbnail: /assets/images/officers/estelle.png
-bio: "Estelle is a 2nd year graduate student in the Focused Ultrasound group at the Imaging and Neurosciences Center. Outside of research, you'll find her training at her CrossFit gym, practicing the Olympic lifts (snatch & clean and jerk), or running cross country. She also enjoys hanging out with her friends and learning to cook new recipes."
+thumbnail: /assets/images/officers/mahnoor.png
+bio: "Mahnoor is a 2nd year PhD student from Pakistan in the Computer Vision Group at KSoC. She works in the domains pure computer vision in AI and ML. Outside of work, she loves playing golf and tennis and is an avid swimmer. She also loves anything outdoors like hiking, trekking and the occasional picnic on a sunny day!"
 order: 0
 ---

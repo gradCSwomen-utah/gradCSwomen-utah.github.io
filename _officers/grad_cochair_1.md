@@ -4,7 +4,7 @@ layout: default
 title: PhD Chair
 name: "Mahnoor Saad"
 email: "mahnoor.saad@utah.edu"
-webpage: "https://faculty.utah.edu/u1472267-MAHNOOR_FATIMA_SAAD/research/index.hml
+webpage: "https://faculty.utah.edu/u1472267-MAHNOOR_FATIMA_SAAD/research/index.hml"
 year: 3rd
 program: PhD
 labname: 

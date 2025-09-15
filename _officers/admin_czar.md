@@ -2,12 +2,12 @@
 publish: true
 layout: default
 title: Advisor
-name: "Anna Fariha"
-email: afariha@cs.utah.edu
-webpage: "https://afariha.github.io/"
+name: "Jenny Lin"
+email: jenny.h.lin@utah.edu
+webpage: "https://jlin98.github.io/"
 year:
-thumbnail: /assets/images/officers/anna.png
-bio: "Anna Fariha is an Assistant Professor in the Kahlert School of Computing. She likes to be out in nature and be on a hiking trail. Mountains, wildflowers, and alpine lakes are her favorites. She also enjoys music, playing the piano, and reading science fiction."
+thumbnail: /assets/images/officers/jenny.png
+bio: "Jenny Lin is an assistant professor at the Kahlert School of Computing. Her research is on graphics with an interest in physical fabrication and the computational tools we build for it. In her spare time, she enjoys scribbling with fountain pens and playing questionable mobile games."
 order: 7
 ---
 

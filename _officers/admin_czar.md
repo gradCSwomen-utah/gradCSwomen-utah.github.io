@@ -2,7 +2,7 @@
 publish: true
 layout: default
 title: Advisor
-name: "Jenny Lin"
+name: "Dr. Jenny Lin"
 email: jenny.h.lin@utah.edu
 webpage: "https://jlin98.github.io/"
 year:

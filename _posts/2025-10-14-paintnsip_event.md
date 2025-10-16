@@ -9,9 +9,9 @@ thumbnail: assets/images/officers/kimberly.png
 ---
 
 Thank you to everyone who joined us for the Paint and Sip event earlier this week! It was wonderful to meet new faces and reconnect with familiar ones as we painted together. The turnout was fantastic, and the art looked amazing!
-<img src="assets/images/paintnsip/IMG_9872.jpg" alt="My Image">
-<img src="assets/images/paintnsip/IMG_9877.jpg" alt="My Image">
-<img src="assets/images/paintnsip/IMG_9878.jpg" alt="My Image">
+<img src="/assets/images/paintnsip/IMG_9872.jpg" alt="My Image">
+<img src="/assets/images/paintnsip/IMG_9877.jpg" alt="My Image">
+<img src="/assets/images/paintnsip/IMG_9878.jpg" alt="My Image">
 Stay tuned for our next event toward the end of November. We can’t wait to see you there! And mark your calendar for early January, when we’ll be hosting a special event with Telle Whitney, author of Rebooting Tech Culture. You can check out the audiobook through the University library (link at the end of the post!).
 
 Until next time!

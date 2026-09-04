@@ -16,10 +16,8 @@ order: 4
   <span>PAST MEMBERS</span>
 </div>
 
-<div class="row past-members-grid">
+<div class="row masonry-grid">
   {% for officer in sorted_officers %}
-    <div class="col-md-6 mb-3">
-      <div class="past-member-position">{{ officer.title }}</div>
-    </div>
+    {% include officerbox.html %}
   {% endfor %}
 </div>

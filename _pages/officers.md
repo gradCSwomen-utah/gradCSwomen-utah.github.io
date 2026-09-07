@@ -5,6 +5,10 @@ permalink: /officers
 order: 4
 ---
 
+<div class="member-section-title">
+  <h2><span>Current Officers</span></h2>
+</div>
+
 <div class="row masonry-grid">
   {% assign sorted_officers = site.officers | sort:"order" %}
   {% for officer in sorted_officers %}
@@ -12,8 +16,8 @@ order: 4
   {% endfor %}
 </div>
 
-<div class="past-members-divider">
-  <span>PAST MEMBERS</span>
+<div class="member-section-title">
+  <h2><span>Past Members</span></h2>
 </div>
 
 <div class="row masonry-grid">

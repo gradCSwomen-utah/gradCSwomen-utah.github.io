@@ -5,7 +5,7 @@ title: Treasurer
 name: Remy Ogasawara
 webpage:
 email: "remy.ogasawara@utah.edu"
-year: 2nd
+year: 
 program: 
 labname:
 labpage:

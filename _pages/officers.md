@@ -10,9 +10,11 @@ order: 4
 </div>
 
 <div class="row masonry-grid">
-  {% assign sorted_officers = site.officers | sort:"order" %}
-  {% for officer in sorted_officers %}
-    {% include officerbox.html %} 
+  {% assign current_officers = site.officers | sort:"order" %}
+  {% for officer in current_officers %}
+    {% unless officer.path contains '/past_members/' %}
+      {% include officerbox.html %}
+    {% endunless %}
   {% endfor %}
 </div>
 
@@ -21,7 +23,8 @@ order: 4
 </div>
 
 <div class="row masonry-grid">
-  {% for officer in sorted_officers %}
+  {% assign past_officers = site.officers | where_exp: "officer", "officer.path contains '/past_members/'" | sort:"order" %}
+  {% for officer in past_officers %}
     {% include officerbox.html %}
   {% endfor %}
 </div>

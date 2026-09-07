@@ -22,9 +22,22 @@ order: 4
   <h2><span>Past Members</span></h2>
 </div>
 
-<div class="row masonry-grid">
+<div class="table-responsive">
+  <table class="table past-members-table">
+    <thead>
+      <tr>
+        <th scope="col">Position</th>
+        <th scope="col">Person</th>
+      </tr>
+    </thead>
+    <tbody>
   {% assign past_officers = site.officers | where_exp: "officer", "officer.path contains '/past_members/'" | sort:"order" %}
   {% for officer in past_officers %}
-    {% include officerbox.html %}
+      <tr>
+        <td>{{ officer.title }}</td>
+        <td>{{ officer.name }}</td>
+      </tr>
   {% endfor %}
+    </tbody>
+  </table>
 </div>

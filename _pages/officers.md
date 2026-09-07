@@ -24,28 +24,6 @@ order: 4
 
 {% assign past_officers = site.officers | sort:"order" %}
 
-<h3 class="past-members-year">2023-2024</h3>
-<div class="table-responsive">
-  <table class="table past-members-table">
-    <thead>
-      <tr>
-        <th scope="col">Position</th>
-        <th scope="col">Person</th>
-      </tr>
-    </thead>
-    <tbody>
-      {% for officer in past_officers %}
-        {% if officer.path contains '/past_members/2023-2024/' %}
-          <tr>
-            <td>{{ officer.title }}</td>
-            <td>{% unless officer.name == blank %}{{ officer.name }}{% else %}{{ officer.title }}{% endunless %}</td>
-          </tr>
-        {% endif %}
-      {% endfor %}
-    </tbody>
-  </table>
-</div>
-
 <h3 class="past-members-year">2024-2025</h3>
 <div class="table-responsive">
   <table class="table past-members-table">
@@ -58,6 +36,28 @@ order: 4
     <tbody>
       {% for officer in past_officers %}
         {% if officer.path contains '/past_members/2024-2025/' %}
+          <tr>
+            <td>{{ officer.title }}</td>
+            <td>{% unless officer.name == blank %}{{ officer.name }}{% else %}{{ officer.title }}{% endunless %}</td>
+          </tr>
+        {% endif %}
+      {% endfor %}
+    </tbody>
+  </table>
+</div>
+
+<h3 class="past-members-year">2023-2024</h3>
+<div class="table-responsive">
+  <table class="table past-members-table">
+    <thead>
+      <tr>
+        <th scope="col">Position</th>
+        <th scope="col">Person</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for officer in past_officers %}
+        {% if officer.path contains '/past_members/2023-2024/' %}
           <tr>
             <td>{{ officer.title }}</td>
             <td>{% unless officer.name == blank %}{{ officer.name }}{% else %}{{ officer.title }}{% endunless %}</td>

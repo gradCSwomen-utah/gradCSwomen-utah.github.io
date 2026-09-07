@@ -2,12 +2,12 @@
 publish: true
 layout: default
 title: Advisor
-name: "Dr. Jenny Lin"
-email: jenny.h.lin@utah.edu
-webpage: "https://jlin98.github.io/"
+name: "Dr. Anna Fariha"
+email: 
+webpage: 
 year:
-thumbnail: /assets/images/officers/jenny.png
-bio: "Jenny Lin is an assistant professor at the Kahlert School of Computing. Her research is on graphics with an interest in physical fabrication and the computational tools we build for it. In her spare time, she enjoys scribbling with fountain pens and playing questionable mobile games."
+thumbnail: /assets/images/officers/xyz.png
+bio: ""
 order: 7
 ---
 

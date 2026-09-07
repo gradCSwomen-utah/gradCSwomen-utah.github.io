@@ -7,7 +7,7 @@
     <!-- Officer Details -->
     <div class="col-md-9">
       <ul style="list-style-type:none;">
-        <li><b><a href="{{ officer.webpage }}">{{ officer.name }}</a></b></li>
+        <li><b>{% unless officer.name == blank %}<a href="{{ officer.webpage }}">{{ officer.name }}</a>{% else %}{{ officer.title }}{% endunless %}</b></li>
         <li><b>{{ officer.title }}</b></li>
         {% if officer.year %}
         <li><i>{{ officer.year }} year in the {{ officer.program }} program</i></li>

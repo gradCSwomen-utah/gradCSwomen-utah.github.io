@@ -2,7 +2,7 @@
 publish: true
 layout: default
 title: Webmaster
-name: Mahnoor Fatima Saad
+name: Mahnoor Saad
 email: tbd
 webpage: 
 year: 
